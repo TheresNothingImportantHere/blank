@@ -1,3 +1,3 @@
 # Blank
 things:
-[-] i use this for code spaces
+- i use this for code spaces
